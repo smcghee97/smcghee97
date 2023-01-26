@@ -1,5 +1,12 @@
-### Hi there 👋
+<img src="https://github.com/smcghee97/smcghee97/blob/main/github-header-image.png" >
 
+###### I recently graduated from the University of Houston - Clear Lake and received my degree in Computer Information Systems. Please don't hesistate to reach out to me on [LinkedIn](https://www.linkedin.com/in/shani97/) if you have any questions for me! 
+
+###### #Languages and Tools
+###### -[Adobe Suite] [Android Studio] [ASP.NET] [C++] [Figma] [Git] [HTML/CSS] [Java] [JS] [Python]
+
+###### #Projects
+###### [Dressy - Virtual Closet Organization App]
 <!--
 **smcghee97/smcghee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
